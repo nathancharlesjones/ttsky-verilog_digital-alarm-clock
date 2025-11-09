@@ -9,12 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple digital alarm clock in 24-hour format.
+
+Upon reset, press "hour_inc" and "min_inc" to increment the hours/minutes.
+
+Press and hold "alarm_set" to see the current alarm. Press "hour_inc"/"min_inc" while holding "alarm_set" to set the alarm time. Press "alarm_on_off" to toggle whether alarm is on or off (indicated by decimal point on far right display).
+
+Press "brightness" to toggle display brightness.
+
+More details on the GitHub project page: https://github.com/nathancharlesjones/ttsky-verilog_digital-alarm-clock.
 
 ## How to test
 
-Explain how to use your project
+TBD
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+See circuit below.
